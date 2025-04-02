@@ -24,7 +24,7 @@ Before running the tests, ensure you have:
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/ecommerce-test-suite.git
+   git clone https://github.com/SPChandraSai/ecommerce-test-suite
    cd ecommerce-test-suite
    ```
 2. **Install Dependencies**:
@@ -64,14 +64,8 @@ The suite includes the following test scenarios:
 - **Integrate with CI/CD pipelines**.
 - **Generate detailed test reports using Allure.**
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
 ### Author
 
-[Your Name]\
-GitHub: [yourusername](https://github.com/yourusername)
+S.P.Chandra Sai\
+GitHub: https://github.com/SPChandraSai#132297450
 
